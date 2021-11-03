@@ -1,4 +1,3 @@
 <?php
 
-echo "Hola github";
-echo "test";
+echo "Hola GitHub otra vez";
